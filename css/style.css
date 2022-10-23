@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,900;1,700&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+  color: #424551;
+}
+
+[class*="__container"] {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.courses__item {
+  margin-bottom: 30px;
+}
+.benefits__item {
+  display: inline-block;
+  margin-left: 50px;
+}
